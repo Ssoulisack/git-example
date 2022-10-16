@@ -1,2 +1,2 @@
 console.log("hello git")
-console.log('Employee')
+console.log('Employe')
